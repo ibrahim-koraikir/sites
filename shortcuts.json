@@ -57,7 +57,22 @@
         { "name": "1porn", "url": "https://www.1porn.tv/" }
       ]
     },
-    { "name": "AI Porn", "sites": [] },
+    {
+      "name": "AI Porn",
+      "sites": [
+        { "name": "MyBabes Reels", "url": "https://mybabes.ai/reels" },
+        { "name": "NSFW Girlfriend", "url": "https://www.nsfwgirlfriend.com/" },
+        { "name": "Talkie AI", "url": "https://www.talkie-ai.com/" },
+        { "name": "MyBabes", "url": "https://mybabes.ai/" },
+        { "name": "OurDream", "url": "https://ourdream.ai/feed" },
+        { "name": "DeepAI Voice", "url": "https://deepai.org/voice" },
+        { "name": "Wyvern Chat", "url": "https://app.wyvern.chat/" },
+        { "name": "Goonchan", "url": "https://goonchan.org/" },
+        { "name": "Privee AI", "url": "https://app.priveeai.com/chat/thea-396h4awt" },
+        { "name": "Shapes Chat", "url": "https://talk.shapes.inc/lemurian-rafayel/dm" },
+        { "name": "Xoul AI", "url": "https://xoul.ai/" }
+      ]
+    },
     { "name": "Live Sex Cam", "sites": [] },
     { "name": "Top Premium", "sites": [] },
     { "name": "AI Porn Generator", "sites": [] },
