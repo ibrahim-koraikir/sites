@@ -154,7 +154,7 @@
       "sites": [
         { "name": "Vidizzy Chat", "url": "https://www.vidizzy.com/chat" },
         { "name": "Lesbly Chat", "url": "https://www.lesbly.com/chat" },
-        { "name": "SexyMeet", "url": "https://sexymeet.tv/home?utm_source=trackdesk&linkId=lp_260604&sourceId=q52tpw&tenantId=highlight-allocation&affS1=10262b0906a6ae34576478b4ef2d96&affS2=28326&affS3=FnbEAq2gFTrXbX7Si&inst_id=94987e82b1111403e1adea7a3af2ae49" },
+        { "name": "SexyMeet", "url": "https://sexymeet.tv/home?utm_source=trackdesk&linkId=lp_260604&sourceId=q52tpw&tenantId=highlight-allocation&affS1=10262b0906a6ae34576478b4ef2d96&affS2=28326&affS[...]" },
         { "name": "Flingster Sex Chat", "url": "https://flingster.com/sex-chat/" },
         { "name": "FoxVideoChat", "url": "https://foxvideochat.com/home?inst_id=b14f5712d3ebcbde1f8a54a62357f42a" },
         { "name": "ChatRandom", "url": "https://chatrandom.com/" },
@@ -162,6 +162,22 @@
         { "name": "vava.chat", "url": "https://web.vava.chat/#/video" },
         { "name": "Omegle Dirty Video Alternative", "url": "https://chat.omegle.webcam/videochat/Dirty-video-chat-alternative-adults" },
         { "name": "YourCafe", "url": "https://yourcafe.app/home?inst_id=1275ddff4351fe89a92c14734cd4149d" }
+      ]
+    },
+    {
+      "name": "Games",
+      "sites": [
+        { "name": "Nutaku", "url": "https://www.nutaku.net/home/" },
+        { "name": "Great Idea Games", "url": "https://greatideagames.com/" },
+        { "name": "Free Strip Games", "url": "https://www.free-strip-games.com/" },
+        { "name": "SexWorld3D", "url": "https://sexworld3d.com/" },
+        { "name": "Lewdflix", "url": "https://lewdflix.com/game/" },
+        { "name": "XOGX", "url": "https://xogx.com/" },
+        { "name": "XGame9", "url": "https://xgame9.com/home/" },
+        { "name": "PlayForceOne", "url": "https://playforceone.com/" },
+        { "name": "XXXGames", "url": "https://xxxgames.games/" },
+        { "name": "KinkyQuests", "url": "https://kinkyquests.games/" },
+        { "name": "3D Sex Universe", "url": "https://3dsexuniverse.com/" }
       ]
     }
   ]
